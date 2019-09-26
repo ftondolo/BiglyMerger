@@ -5,7 +5,7 @@ import os
 import subprocess
 
 def main():
-    print('Letter #:')
+    print('Letter Number:')
     letter=input()
     once=0
     tim_counter=0.050
