@@ -3,7 +3,7 @@ Program created with the purpose of merging a number of .ASC files into a single
 
 
 ## Notice
-Due to the naming structure, __it is necessary that there are no files with the same filenames as the .ASC files but with .TXT extensions as these files must be createed by the program__. Moreover, __this program was designed to work solely with a very specific .ASC file format, if you wish to use it you will have to make modifications__.<br>
+Due to the naming structure, __it is necessary that there are no files with the same filenames as the .ASC files but with .TXT extensions as these files must be createed by the program__. Moreover, __this program was designed to work solely with a very specific .ASC file format, if you wish to use it you will have to make modifications__. Spaces in filenames are allowed!<br>
 
 ## Windows Install
 _Administrator Privileges Required_
